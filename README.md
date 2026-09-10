@@ -1,2 +1,1 @@
-# testing_global_settings_for_public
-testing_global_settings_for_public
+This is the README.md file.
