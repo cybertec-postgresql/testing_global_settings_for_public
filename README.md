@@ -1,2 +1,0 @@
-# testing_global_settings_for_public
-testing_global_settings_for_public
